@@ -1,1 +1,1 @@
-from gcr.io/k8s-staging-sig-storage/nfsplugin:canary
+from registry.k8s.io/sig-storage/nfsplugin:v3.1.0
