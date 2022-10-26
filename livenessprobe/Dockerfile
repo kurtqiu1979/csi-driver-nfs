@@ -1,1 +1,1 @@
-from registry.k8s.io/sig-storage/livenessprobe:v2.7.0
+from registry.k8s.io/sig-storage/livenessprobe:v2.5.0
